@@ -1,1 +1,2 @@
-These are my projects on javascript
+These are my projects based on html, css and javascript
+<br/>
